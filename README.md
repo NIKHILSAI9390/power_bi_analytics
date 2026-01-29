@@ -5,6 +5,8 @@ This project analyzes **real-world employee attendance data** and converts **mes
 
 The solution automatically recalculates metrics for **each month**, providing insights into **presence, work-from-home (WFH), and sick leave (SL) trends** with minimal manual effort.
 
+<img width="1169" height="665" alt="image" src="https://github.com/user-attachments/assets/d4182777-7a31-4750-af15-4bc306d6dcfa" />
+
 ---
 
 ## 📸 Dashboard Preview – Presence Insights
